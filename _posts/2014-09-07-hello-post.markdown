@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hello post"
+title: "привет пост"
 date: "Вс сен 07 18:57:28 +0400 2014"
 ---
 
