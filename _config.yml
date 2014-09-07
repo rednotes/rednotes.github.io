@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
     just another vim, linux, opensource user blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rednot.es" # the base hostname & protocol for your site
-twitter_username: 0x07ffff7df07c0
+twitter_username: '0x07ffff7df07c0'
 github_username: abcdw
 
 # Build settings
