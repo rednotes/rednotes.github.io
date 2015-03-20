@@ -1,4 +1,9 @@
-- name: Naga Razer mouse
+- name: Naga Razer mouse 14 green edition
   description: cool razer mouse
   url: http://www.razerzone.ru/product/mouses/razer-naga-2014-limited-green-edition
   image: http://www.razerzone.ru/media/brands/2015-01-26/750x368_naga_greenru_2.jpg
+
+- name: Чешки для батута
+  description: любые чешки 39ого размера, может даже 38ого.
+  url: http://www.acrosport.ru/catalogue/pryzhki_na_batute_i_akrobaticheskoy_dorozhke/aksessuary/item_IWA-250/
+  image: None
