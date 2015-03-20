@@ -14,7 +14,8 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
+        <!-- sort doesn't work :( -->
+        {% for page in {{site.pages | sort: 'title', 'last' }} %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
