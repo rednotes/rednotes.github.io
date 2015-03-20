@@ -3,10 +3,17 @@ title: wishlist
 layout: default
 permalink: /wishlist/
 ---
-
 {% for wish in site.data.wishlist %}
 <li>
-  <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+  {% if wish.performer %}
+  <strike>
+    <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+  </strike>
+  <br>
+  {{ wish.performer }} made that dream true :blush:
+  {% else %}
+    <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+  {% endif %}
   <!-- <img src="{{ wish.image }}"> -->
 </li>
 {% endfor %}

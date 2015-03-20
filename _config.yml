@@ -11,3 +11,9 @@ superuser: Andrew Tropin
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
