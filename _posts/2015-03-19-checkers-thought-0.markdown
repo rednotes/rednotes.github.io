@@ -2,7 +2,6 @@
 layout: post
 title: "Это же очевидно! И ежу понятно."
 date: "2015-03-21 17:30:42 +0300"
-published: false
 tags: life
 ---
 
