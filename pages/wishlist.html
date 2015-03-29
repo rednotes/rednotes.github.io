@@ -3,6 +3,13 @@ title: wishlist
 layout: default
 permalink: /wishlist/
 ---
+<p>
+Далеко не всё из этого мне необходимо, но я однозначно буду рад любому пункту
+списка. Буду очень признателен, если вы просто посоветуете что-то
+более интересное, удобное, практичное, чем найденное мной или не найденное
+вовсе.
+</p>
+
 <ol>
   {% for wish in site.data.wishlist %}
   <li>
@@ -13,7 +20,7 @@ permalink: /wishlist/
     <br>
     {{ wish.performer }} made that dream true :blush:
     {% else %}
-      <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+      <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description | safe}}
     {% endif %}
     <!-- <img src="{{ wish.image }}"> -->
   </li>
