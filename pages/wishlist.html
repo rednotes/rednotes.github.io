@@ -3,8 +3,8 @@ title: wishlist
 layout: default
 permalink: /wishlist/
 ---
-{% for wish in site.data.wishlist %}
 <ol>
+  {% for wish in site.data.wishlist %}
   <li>
     {% if wish.performer %}
     <strike>
@@ -17,5 +17,5 @@ permalink: /wishlist/
     {% endif %}
     <!-- <img src="{{ wish.image }}"> -->
   </li>
+  {% endfor %}
 </ol>
-{% endfor %}
