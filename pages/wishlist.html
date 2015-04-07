@@ -12,17 +12,25 @@ permalink: /wishlist/
 
 <ol>
   {% for wish in site.data.wishlist %}
-  <li>
-    {% if wish.performer %}
-    <strike>
-      <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
-    </strike>
-    <br>
-    {{ wish.performer }} made that dream true :blush:
-    {% else %}
+    {% if not wish.performer %}
+    <li>
       <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description | safe}}
+      <!-- <img src="{{ wish.image }}"> -->
+    </li>
     {% endif %}
-    <!-- <img src="{{ wish.image }}"> -->
-  </li>
+  {% endfor %}
+</ol>
+
+<ol>
+  {% for wish in site.data.wishlist %}
+    {% if wish.performer %}
+    <li>
+      <strike>
+        <a href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+      </strike>
+      <br>
+      {{ wish.performer }} made that dream true :blush:
+    </li>
+    {% endif %}
   {% endfor %}
 </ol>
