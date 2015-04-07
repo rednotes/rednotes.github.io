@@ -11,7 +11,7 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
-          <img src="{{ post.image }}" alt="" style="height:50px; width:50px" />
+          <img src="{{ post.image }}" alt="" style="height:64px; width:64px" />
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
           {% if post.published == false %} [unpublished] {% endif %}
         </h2>
