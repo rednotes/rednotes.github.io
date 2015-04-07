@@ -2,6 +2,7 @@
 layout: post
 title: "vim-story-2"
 date: "Вт дек 02 23:08:16 +0300 2014"
+image: /downloads/icons/vim.png
 published: false
 ---
 

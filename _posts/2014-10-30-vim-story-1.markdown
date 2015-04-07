@@ -2,6 +2,7 @@
 layout: post
 title: "vim story #1"
 permalink: story/vim/1
+image: /downloads/icons/vim.png
 tags: vim, linux, emacs, dvorak
 ---
 
