@@ -19,7 +19,7 @@
     мой старенький и уже разваливается.
   image: None
 
-- name: Рюкзак спортивный/для путеществий
+- name: Рюкзак спортивный/для путешествий
   description: аналогичный тому, что по ссылке.
   url: http://octagon-shop.com/odezhda/sumki/ryukzak-venum-asbolute-convertible-training-bag-detal
 
@@ -28,3 +28,7 @@
     любые достаточно точные(50 г), чтобы взвешиваться и контролить вес перед
     соревнованиями.
   url: http://m.geektimes.ru/post/248288/
+
+- name: SmartWatch
+  description: хочется побаловаться с какими-нибудь умными часами.
+  url: http://www.android.com/wear/
