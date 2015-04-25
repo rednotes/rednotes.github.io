@@ -19,10 +19,21 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+  <div id="mc_embed_signup">
+    <form action="//rednot.us10.list-manage.com/subscribe/post?u=5b4862b4e4a1d13ad46abc221&amp;id=1b3171c4f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" style="display:inline-block;" required>
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_5b4862b4e4a1d13ad46abc221_1b3171c4f7" tabindex="-1" value=""></div>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display:inline-block;">
+      </div>
+    </form>
+  </div>
+
   <tags>
     tags:
     {% for tag in page.tags %}
-      {{tag}}
+      {{ tag }}
     {% endfor %}
   </tags>
 </div>
