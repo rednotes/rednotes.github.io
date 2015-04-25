@@ -174,8 +174,11 @@
     list-style: none;
 
     > li {
-        margin-bottom: 0px; 
+        margin-bottom: 0px;
         /* $spacing-unit; */
+        p {
+            text-indent: 1.5em;
+        }
     }
 }
 

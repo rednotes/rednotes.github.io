@@ -15,6 +15,7 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
           {% if post.published == false %} [unpublished] {% endif %}
         </h2>
+        {{ post.excerpt | markdownify | emojify }}
       </li>
     {% endfor %}
   </ul>
