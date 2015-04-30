@@ -32,3 +32,12 @@
 - name: SmartWatch
   description: хочется побаловаться с какими-нибудь умными часами.
   url: http://www.android.com/wear/
+
+- name: Kinesis Advantage
+  description: крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать.
+  url: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/
+
+- name: HHKB 2 Pro
+  description: Еще одна крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать.
+  url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
+
