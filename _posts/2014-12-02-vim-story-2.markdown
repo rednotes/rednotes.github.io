@@ -80,8 +80,8 @@ set nocompatible
 set wildmenu
 set keywordprg=:help
 set ruler
-colorscheme desert
-" alternatives: slate industry
+colorscheme industry
+" alternatives: slate desert
 syntax on
 ```
 
