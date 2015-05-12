@@ -2,11 +2,6 @@
   description: сделать крутой и удобный wishlist
   performer: <a href="https://vk.com/abcdw">@abcdw</a>
 
-- name: Razer Naga 2014, Green Limited Edition
-  description: cool razer mouse, just for work.
-  url: http://www.razerzone.ru/product/mouses/razer-naga-2014-limited-green-edition
-  image: http://www.razerzone.ru/media/brands/2015-01-26/750x368_naga_greenru_2.jpg
-
 - name: Чешки для батута
   description: любые чешки 39ого размера, может даже 38ого.
   url: http://www.acrosport.ru/catalogue/pryzhki_na_batute_i_akrobaticheskoy_dorozhke/aksessuary/item_IWA-250/
@@ -20,7 +15,7 @@
   image: None
 
 - name: Рюкзак спортивный/для путешествий
-  description: аналогичный тому, что по ссылке.
+  description: например аналогичный тому, что по ссылке.
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
 
 - name: Весы
