@@ -141,7 +141,34 @@ syntax on
 
 За время написания поста накопилось много материала, следующий пост планирую посвятить структуризации конфига, а так же теме хранения, контроля версий и деплоя. Хотя с уверенностью сказать не могу, зависит от фидбека и будет точнее понятно уже по ходу написания.
 
-{% gist abcdw/d1728366c2e60e1a6802 %}
+## Немного приятностей
+
+Чуть-чуть расширенный `~/.vimrc`:
+
+```Vim
+"""""""""""""""""""""""
+" MY MICRO VIMRC v0.2 "
+"""""""""""""""""""""""
+set nocompatible
+
+set wildmenu
+set wildmode=longest:full,full
+set keywordprg=:help
+set ruler
+
+colorscheme industry
+" alternatives: slate desert
+
+set autoindent
+set smartindent
+set smarttab
+set shiftround
+set shiftwidth=4
+
+syntax on
+filetype plugin indent on
+```
+<!-- {% gist abcdw/d1728366c2e60e1a6802 %} -->
 
 
 [wiki]:         https://ru.wikibooks.org/wiki/Vim
