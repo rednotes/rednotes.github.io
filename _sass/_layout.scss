@@ -175,10 +175,6 @@
 
     > li {
         margin-bottom: 0px;
-        /* $spacing-unit; */
-        p {
-            text-indent: 1.5em;
-        }
     }
 }
 
@@ -213,10 +209,6 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
-    p {
-        text-indent: 1.5em;
-    }
 
     h1 {
         text-align: center;
