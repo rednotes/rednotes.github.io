@@ -1,6 +1,6 @@
 - name: Запилить wishlist
   description: сделать крутой и удобный wishlist
-  performer: <a href="https://vk.com/abcdw">@abcdw</a>
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Чешки для батута
   description: любые чешки 39ого размера, может даже 38ого.
@@ -31,8 +31,16 @@
 - name: Kinesis Advantage
   description: крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать.
   url: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/
+  performer: <a href="https://vk.com/abcdw">abcdw</a>, stfomichev
 
 - name: HHKB 2 Pro
   description: Еще одна крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать.
   url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
 
+- name: mod
+  description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию.
+  url: http://www.ebay.com/itm/21CM-Non-Slip-Coated-Professional-Spin-Spinning-Pen-for-Champion-Competition-V15-/201283855022
+
+- name: Trackball
+  description: Любой, даже б/у.
+  url: http://www.amazon.com/b?node=172499
