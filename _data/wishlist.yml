@@ -2,17 +2,13 @@
   description: сделать крутой и удобный wishlist
   performer: <a href="https://vk.com/abcdw">abcdw</a>
 
-- name: Чешки для батута
-  description: любые чешки 39ого размера, может даже 38ого.
-  url: http://www.acrosport.ru/catalogue/pryzhki_na_batute_i_akrobaticheskoy_dorozhke/aksessuary/item_IWA-250/
-  image: None
-
 - name: Рюкзак
   description: >
     небольшой(главное, чтобы моя четырнадцатидюймовая прелесть
     умещалась), цвет любой, но лучше нейтральных тонов(серый, черный, белый),
     мой старенький и уже разваливается.
   image: None
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке.
@@ -23,6 +19,7 @@
     любые достаточно точные(50 г), чтобы взвешиваться и контролить вес перед
     соревнованиями.
   url: http://m.geektimes.ru/post/248288/
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: SmartWatch
   description: хочется побаловаться с какими-нибудь умными часами.
@@ -44,3 +41,8 @@
 - name: Trackball
   description: Любой, даже б/у.
   url: http://www.amazon.com/b?node=172499
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Нож
+  description: любой интересный нож с одним лезвием, не принципиально складной или нет.
+  url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
