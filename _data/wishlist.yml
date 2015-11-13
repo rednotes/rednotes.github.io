@@ -1,4 +1,3 @@
-
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке.
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
@@ -47,7 +46,7 @@
 - name: Raspberry pi 2 Ultimate Starter Kit
   description: малинка в любой комплектации, но лучше с диодиками и кнопками.
   url: http://www.amazon.com/gp/product/B00G1PNG54?redirect=true&ref_=s9_simh_gw_p147_d0_i1
-  performer: <a href="https://vk.com/stepan_niki">@snikiforov</a>, <a href="https://vk.com/abcdw">abcdw</a>
+  performer: <a href="https://vk.com/stepan_niki">snikiforov</a>, <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Весы
   description: >
