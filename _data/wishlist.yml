@@ -2,26 +2,35 @@
   description: например аналогичный тому, что по ссылке.
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
 
+- name: Записная книжка
+  description: с закладкой и приятной обложкой.
+  url: https://indinotes.com/product/leuchtturm1917-medium-notebook-taupe
+
+- name: Скакалка
+  description: не очень тонкие рукоятки, чтобы удобно было держать.
+
+- name: Наушники
+  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие.
+
+- name: Книги
+  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк.
+  url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
 
 - name: SmartWatch
   description: хочется побаловаться с какими-нибудь умными часами.
   url: http://www.android.com/wear/
 
-- name: BlackBerry 
+- name: BlackBerry Priv
   description: android-телефон с физической клавиатурой *_*
   url: http://geektimes.ru/post/265718/
 
 - name: Happy hacking keyboard 2 Pro!!!
-  description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать.
+  description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать.
   url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
 
 - name: Ultimate hacking keyboard
   description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать.
   url: https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard
-  
-- name: mod
-  description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию.
-  url: http://www.ebay.com/itm/21CM-Non-Slip-Coated-Professional-Spin-Spinning-Pen-for-Champion-Competition-V15-/201283855022
 
 - name: Нож
   description: любой интересный нож с одним лезвием, не принципиально складной или нет.
@@ -34,6 +43,11 @@
 - name: Запилить wishlist
   description: сделать крутой и удобный wishlist
   performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: mod
+  description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию.
+  url: http://www.ebay.com/itm/21CM-Non-Slip-Coated-Professional-Spin-Spinning-Pen-for-Champion-Competition-V15-/201283855022
+  performer: binnocl team
 
 - name: Рюкзак
   description: >
