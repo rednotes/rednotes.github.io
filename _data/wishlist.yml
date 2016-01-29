@@ -1,3 +1,7 @@
+- name: Thinkpad X1 Carbon or X1 Yoga
+  description: два замечательнейших ноута, не знаю какой больше понравится.
+  url: http://shop.lenovo.com/us/en/ces2016/ces/products.html
+
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке.
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
@@ -20,10 +24,6 @@
   description: хочется побаловаться с какими-нибудь умными часами.
   url: http://www.android.com/wear/
 
-- name: BlackBerry Priv
-  description: android-телефон с физической клавиатурой *_*
-  url: http://geektimes.ru/post/265718/
-
 - name: Happy hacking keyboard 2 Pro!!!
   description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать.
   url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
@@ -33,16 +33,22 @@
   url: https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard
 
 - name: Нож
-  description: любой интересный нож с одним лезвием, не принципиально складной или нет.
+  description: любой интересный нож с одним лезвием, не принципиально складной или нет. Или несколько метательных ножей.
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
 
 - name: Пуэр
   description: буду рад любому хорошему чаю.
   url: https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%8D%D1%80
+  performer: Di, binnocl team
 
 - name: Запилить wishlist
   description: сделать крутой и удобный wishlist
   performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: BlackBerry Priv
+  description: android-телефон с физической клавиатурой *_*
+  url: http://geektimes.ru/post/265718/
+  performer: avito
 
 - name: mod
   description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию.
