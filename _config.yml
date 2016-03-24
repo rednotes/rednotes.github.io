@@ -11,9 +11,9 @@ superuser: Andrew Tropin
 
 # Build settings
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "tables", "underline", "highlight", "quote", "footnotes"]
+markdown: kramdown
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "tables", "underline", "highlight", "quote", "footnotes"]
 
 gems:
   - jemoji
