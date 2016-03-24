@@ -1,4 +1,4 @@
 rednotes.github.io
 ==================
 
-github pages
+Nothing special, just small github pages blog
