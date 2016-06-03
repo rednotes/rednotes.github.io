@@ -2,6 +2,10 @@
   description: два замечательнейших ноута, не знаю какой больше понравится.
   url: http://shop.lenovo.com/us/en/ces2016/ces/products.html
 
+- name: Dell XPS 13 InfinityEdge 
+  description: ещё один интересный вариант.
+  url: http://www.dell.com/us/p/xps-13-9350-laptop/pd?ref=3345_Title&oc=fncwt5153b&model_id=xps-13-9350-laptop#overrides=fncwt5153b:760~QHDTCH
+
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке.
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
@@ -15,6 +19,7 @@
 
 - name: Наушники
   description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие.
+  url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
 - name: Книги
   description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк.
