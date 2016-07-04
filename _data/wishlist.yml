@@ -1,6 +1,7 @@
 - name: Clojure sticker
-  description: command line sticker looks good too.
+  description: command line sticker looks good too
   url: http://www.redbubble.com/shop/clojure+stickers
+  price: 3$
 
 - name: Thinkpad X1 Yoga
   description: very intresting ultrabook
@@ -11,34 +12,34 @@
   url: http://www.dell.com/us/business/p/xps-13-9350-laptop-ubuntu/pd
 
 - name: Рюкзак спортивный/для путешествий
-  description: например аналогичный тому, что по ссылке.
+  description: например аналогичный тому, что по ссылке
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
 
 - name: Записная книжка
-  description: с закладкой и приятной обложкой.
+  description: с закладкой и приятной обложкой
   url: https://indinotes.com/product/leuchtturm1917-medium-notebook-taupe
 
 - name: Скакалка
-  description: не очень тонкие рукоятки, чтобы удобно было держать.
+  description: не очень тонкие рукоятки, чтобы удобно было держать
 
 - name: Наушники
-  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие.
+  description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие
   url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
 - name: Книги
-  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк.
+  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
   url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
 
 - name: SmartWatch
-  description: хочется побаловаться с какими-нибудь умными часами.
+  description: хочется побаловаться с какими-нибудь умными часами
   url: http://www.android.com/wear/
 
 - name: Happy hacking keyboard 2 Pro!!!
-  description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать.
+  description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать
   url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
 
 - name: Ultimate hacking keyboard
-  description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать.
+  description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать
   url: https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard
 
 - name: Нунчаки
@@ -46,11 +47,11 @@
   url: http://ru.aliexpress.com/premium/nunchuck%25252dmartial%25252darts.html?ltype=wholesale&d=y&origin=n&isViewCP=y&SearchText=nunchuck-martial-arts&src=google&albch=search&acnt=479-062-3723&isdl=y&aff_short_key=UneMJZVf&albcp=273906556&albag=7991704636&slnk=&trgt=dsa-55226941396&plac=&crea=64152647716&netw=g&device=c&mtctp=b&memo1=1t1&gclid=Cj0KEQjw1cS6BRDvhtKL89em1oIBEiQAtZO5xxgd0MkEHC-UhzE3e_prQqwCBD4EWQjrj1gXANnwUwMaAslj8P8HAQ
 
 - name: Нож
-  description: любой интересный нож с одним лезвием, не принципиально складной или нет. Или несколько метательных ножей.
+  description: любой интересный нож с одним лезвием, не принципиально складной или нет. Или несколько метательных ножей
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
 
 - name: Пуэр
-  description: буду рад любому хорошему чаю.
+  description: буду рад любому хорошему чаю
   url: https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%8D%D1%80
   performer: Di, binnocl team
 
@@ -64,7 +65,7 @@
   performer: avito
 
 - name: mod
-  description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию.
+  description: многие знают, что я люблю крутить ручку, но, к сожалению мой, старый мод, служивший мне больше 7 лет, уж совсем плох стал и ушел на пенсию
   url: http://www.ebay.com/itm/21CM-Non-Slip-Coated-Professional-Spin-Spinning-Pen-for-Champion-Competition-V15-/201283855022
   performer: binnocl team
 
@@ -72,28 +73,28 @@
   description: >
     небольшой(главное, чтобы моя четырнадцатидюймовая прелесть
     умещалась), цвет любой, но лучше нейтральных тонов(серый, черный, белый),
-    мой старенький и уже разваливается.
+    мой старенький и уже разваливается
   image: None
   performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Raspberry pi 2 Ultimate Starter Kit
-  description: малинка в любой комплектации, но лучше с диодиками и кнопками.
+  description: малинка в любой комплектации, но лучше с диодиками и кнопками
   url: http://www.amazon.com/gp/product/B00G1PNG54?redirect=true&ref_=s9_simh_gw_p147_d0_i1
   performer: <a href="https://vk.com/stepan_niki">snikiforov</a>, <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Весы
   description: >
     любые достаточно точные(50 г), чтобы взвешиваться и контролить вес перед
-    соревнованиями.
+    соревнованиями
   url: http://m.geektimes.ru/post/248288/
   performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Trackball
-  description: Любой, даже б/у.
+  description: Любой, даже б/у
   url: http://www.amazon.com/b?node=172499
   performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Kinesis Advantage
-  description: крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать.
+  description: крутая механическая клавиатура, которую очень хочется хотя бы попробовать. Пока без понятия где достать
   url: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/
   performer: stfomichev, <a href="https://vk.com/abcdw">abcdw</a>

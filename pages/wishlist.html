@@ -14,7 +14,11 @@ permalink: /wishlist
   {% for wish in site.data.wishlist %}
     {% unless wish.performer %}
     <li>
-      <a target="_blank" href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description | safe}}
+        <a target="_blank" href="{{ wish.url }}">{{ wish.name }} </a>
+            {% if wish.price %}
+            , {{ wish.price }}
+            {% endif %}
+        --- {{ wish.description | safe}}.
       <!-- <img src="{{ wish.image }}"> -->
     </li>
     {% endunless %}
@@ -26,7 +30,7 @@ permalink: /wishlist
     {% if wish.performer %}
     <li>
       <strike>
-        <a target="_blank" href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}
+        <a target="_blank" href="{{ wish.url }}">{{ wish.name }}</a> --- {{ wish.description }}.
       </strike>
       <br>
       {{ wish.performer }} made that dream true :blush:
