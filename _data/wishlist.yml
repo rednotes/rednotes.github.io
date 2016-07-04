@@ -1,10 +1,14 @@
-- name: Thinkpad X1 Carbon or X1 Yoga
-  description: два замечательнейших ноута, не знаю какой больше понравится.
+- name: Clojure sticker
+  description: command line sticker looks good too.
+  url: http://www.redbubble.com/shop/clojure+stickers
+
+- name: Thinkpad X1 Yoga
+  description: very intresting ultrabook
   url: http://shop.lenovo.com/us/en/ces2016/ces/products.html
 
-- name: Dell XPS 13 InfinityEdge 
-  description: ещё один интересный вариант.
-  url: http://www.dell.com/us/p/xps-13-9350-laptop/pd?ref=3345_Title&oc=fncwt5153b&model_id=xps-13-9350-laptop#overrides=fncwt5153b:760~QHDTCH
+- name: Dell XPS 13 Developer Edition
+  description: laptop with pretty good display
+  url: http://www.dell.com/us/business/p/xps-13-9350-laptop-ubuntu/pd
 
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке.
