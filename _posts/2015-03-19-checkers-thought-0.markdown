@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Это же очевидно! И ежу понятно."
-permalink: checkers-thought/0
 date: "2015-03-21 17:30:42 +0300"
 image: /downloads/icons/hedgehog.png
-tags: life
+tags: [life]
 author: abcdw
 ---
 

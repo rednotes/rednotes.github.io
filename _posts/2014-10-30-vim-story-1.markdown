@@ -3,7 +3,7 @@ layout: post
 title: "vim story #1 /About text editing/"
 permalink: story/vim/1
 image: /downloads/icons/vim.png
-tags: vim, linux, emacs, dvorak
+tags: [vim, linux, emacs, dvorak]
 author: abcdw
 ---
 

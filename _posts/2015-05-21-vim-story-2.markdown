@@ -3,7 +3,7 @@ layout: post
 title: "vim story #2 /Survive/"
 permalink: story/vim/2
 image: /downloads/icons/vim.png
-tags: vim, vim-help, installation
+tags: [vim, vim-help, installation]
 author: abcdw
 ---
 

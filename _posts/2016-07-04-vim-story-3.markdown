@@ -3,7 +3,7 @@ layout: post
 title: "vim story #3 /Leave it out/"
 permalink: story/vim/3
 image: /downloads/icons/vim.png
-tags: vim, emacs, idea
+tags: [vim, emacs]
 author: abcdw
 ---
 

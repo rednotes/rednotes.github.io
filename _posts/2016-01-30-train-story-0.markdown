@@ -4,7 +4,7 @@ title: "Train story #0 /One day three people/"
 permalink: story/train/0
 date: "2016-06-29 6:30:42 +0300"
 image: /downloads/icons/train.png
-tags: artwork
+tags: [artwork]
 published: true
 author: abcdw
 ---
