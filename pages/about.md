@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /about
 ---
 
 Последнее время все чаще ловлю себя на том, что хочется записать свою мысль
