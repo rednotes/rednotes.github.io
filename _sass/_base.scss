@@ -40,10 +40,14 @@ ul, ol, dl, figure,
 }
 
 h3 > .tag {
-    font-size: 70%
+    font-size: 70%;
     &:before {
         padding-right: .5em;
     }
+}
+
+h3 > a > small {
+    font-size: 70%;
 }
 
 .tag {
