@@ -33,9 +33,14 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
+<h1>Tags:</h1>
+<div class="tag-list">
 {% for tag in tags %}
-	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+	<a class="tag" href="#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
+</div>
+
+<hr>
 
 {% for tag in tags %}
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
