@@ -33,7 +33,7 @@ layout: default
   <tags>
     tags:
     {% for tag in page.tags %}
-      {{ tag }}
+			 <a class="tag" href="/tags#{{ tag | slugify }}">{{ tag }}</a>
     {% endfor %}
   </tags>
 </div>

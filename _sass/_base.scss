@@ -37,13 +37,17 @@ ul, ol, dl, figure,
 .tag-list {
     display: block;
     padding-bottom: 30px;
+    > .tag {
+        font-size: 110%;
+        margin-bottom: .5rem;
+        &:before {
+            padding-right: 0px;
+        }
+    }
 }
 
 h3 > .tag {
     font-size: 70%;
-    &:before {
-        padding-right: .5em;
-    }
 }
 
 h3 > a > small {
@@ -55,8 +59,7 @@ h3 > a > small {
     &:before {
         content: "\f02b";
         font-family: FontAwesome;
-
-        /* padding-right: .5em;    */
+        padding-right: .5em;
     }
 
     display: inline-block;
