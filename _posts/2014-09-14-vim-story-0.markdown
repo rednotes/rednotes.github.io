@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "vim story #0 /My first time/"
-permalink: story/vim/0
+title: "Vim story #0 /My first time/"
+redirect_from: story/vim/0
 image: /downloads/icons/vim.png
 tags: [vim, linux, life]
 author: abcdw

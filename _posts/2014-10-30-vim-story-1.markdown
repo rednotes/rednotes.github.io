@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "vim story #1 /About text editing/"
-permalink: story/vim/1
+title: "Vim story #1 /About text editing/"
+redirect_from: story/vim/1
 image: /downloads/icons/vim.png
 tags: [vim, linux, emacs, dvorak]
 author: abcdw

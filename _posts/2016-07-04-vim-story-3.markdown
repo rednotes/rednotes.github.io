@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "vim story #3 /Leave it out/"
-permalink: story/vim/3
+title: "Vim story #3 /Leave it out/"
+redirect_from: story/vim/3
 image: /downloads/icons/vim.png
 tags: [vim, emacs]
 author: abcdw
