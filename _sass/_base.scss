@@ -38,9 +38,9 @@ ul, ol, dl, figure,
 
 .tag-list {
     display: block;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     > .tag {
-        font-size: 110%;
+        /* font-size: 110%; */
         margin-bottom: .5rem;
         &:before {
             padding-right: 0px;
