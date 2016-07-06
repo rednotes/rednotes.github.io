@@ -3,7 +3,6 @@ layout: post
 title: "Hackin' story #0 /Making kernel/"
 image: /downloads/icons/hackin.png
 tags: [linux, kernel, ubuntu]
-published: false
 author: abcdw
 ---
 
