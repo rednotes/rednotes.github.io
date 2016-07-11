@@ -52,6 +52,8 @@ make menuconfig
 
 General way to build and install kernel and modules with `make && sudo make modules_install install` described in [KernelBuild][] guide, but we will go the other way. We will build `.deb` package and install it.
 
+> __Tip__: To prevent building of `linux-image-version-dbg` package with debugging symbols use `CONFIG_DEBUG_INFO=n`, otherwise it can take a lot of additional compile time.
+
 ~~~bash
 make -j5 bindeb-pkg
 sudo dpkg -i ../linux-image-* ../linux-headers-*
