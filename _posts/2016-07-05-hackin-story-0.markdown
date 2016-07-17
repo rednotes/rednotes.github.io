@@ -21,7 +21,7 @@ In this post my experience in the building a custom kernel for ubuntu 16.04 with
 
 # What the reason?
 
-Few days ago I started to write kernel module, after I finished and built it I realized that this module can't be loaded into current kernel, because ubuntu default config contains [CONFIG_MODULE_SIG][], which prevents loading of unsigned modules. I had two options: sign my module (and add key to kernel) or build kernel without [CONFIG_MODULE_SIG][]. Both options requires rebuilding kernel and the second have been chosen as simpler. For some distros like [Gentoo][] it's very natural to build kernel (part of installation and update process), but for some it's not so. 
+Few days ago I started to write kernel module, after I finished and built it I realized that this module can't be loaded into current kernel without errors, because ubuntu default config contains [CONFIG_MODULE_SIG][], which reports an error. I had two options: sign my module (and add key to kernel) or build kernel without [CONFIG_MODULE_SIG][]. Both options requires rebuilding kernel and the second have been chosen as simpler, anyway necessary to learn how to deal with it in [Ubuntu][ubuntucom]. For some distros like [Gentoo][] it's very natural to build kernel (part of installation and update process), but for some it's not so. 
 
 # How to build it?
 
