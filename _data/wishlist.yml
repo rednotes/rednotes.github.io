@@ -1,3 +1,15 @@
+- name: Комнатное растение(я)
+  description: Алоэ, Сансевиерия, Хлорофитум.
+  url: http://www.zooclub.ru/samye/poleznye_komnatnye_rastenia.shtml
+
+- name: Книги
+  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
+  url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
+
+- name: Happy hacking keyboard 2 Pro!!!
+  description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать
+  url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
+
 - name: House on the ocean
   description: to live in cozy house near an ocean for few weeks
   url: http://i.imgur.com/Q3tnD.jpg
@@ -43,17 +55,9 @@
   description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие
   url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
 
-- name: Книги
-  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
-  url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
-
 - name: SmartWatch
   description: хочется побаловаться с какими-нибудь умными часами
   url: http://www.android.com/wear/
-
-- name: Happy hacking keyboard 2 Pro!!!
-  description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать
-  url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
 
 - name: Ultimate hacking keyboard
   description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать
