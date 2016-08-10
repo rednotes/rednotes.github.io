@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inno story #0 /Intro/"
-permalink: story/innopolis/0
+redirect_from: story/innopolis/0
 image: /downloads/icons/innopolis.png
 tags: [life]
 author: abcdw
