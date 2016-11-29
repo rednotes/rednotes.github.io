@@ -2,6 +2,9 @@
   description: Алоэ, Сансевиерия, Хлорофитум.
   url: http://www.zooclub.ru/samye/poleznye_komnatnye_rastenia.shtml
 
+- name: Nice domain name
+  description: trop.in for example
+
 - name: Книги
   description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
   url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
@@ -24,7 +27,7 @@
   url: https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529
 
 - name: Linus Torvalds 91 Success Facts
-  description: Everything you need to know about Linus Torvalds 
+  description: Everything you need to know about Linus Torvalds
   url: https://www.amazon.com/Linus-Torvalds-Success-Facts-Everything-ebook/dp/B00QE4MPCW#nav-subnav
 
 - name: Origami Cover
