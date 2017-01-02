@@ -1,6 +1,3 @@
-- name: Комнатное растение(я)
-  description: Алоэ, Сансевиерия, Хлорофитум.
-  url: http://www.zooclub.ru/samye/poleznye_komnatnye_rastenia.shtml
 
 - name: Nice domain name
   description: trop.in for example
@@ -29,7 +26,6 @@
 - name: Linus Torvalds 91 Success Facts
   description: Everything you need to know about Linus Torvalds
   url: https://www.amazon.com/Linus-Torvalds-Success-Facts-Everything-ebook/dp/B00QE4MPCW#nav-subnav
-
 
 - name: Thinkpad X1 Yoga
   description: very intresting ultrabook
@@ -62,13 +58,19 @@
   description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать
   url: https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard
 
-- name: Нунчаки
-  description: я бы с удовольствием научился бы крутить что-то кроме ручки
-  url: http://ru.aliexpress.com/premium/nunchuck%25252dmartial%25252darts.html?ltype=wholesale&d=y&origin=n&isViewCP=y&SearchText=nunchuck-martial-arts&src=google&albch=search&acnt=479-062-3723&isdl=y&aff_short_key=UneMJZVf&albcp=273906556&albag=7991704636&slnk=&trgt=dsa-55226941396&plac=&crea=64152647716&netw=g&device=c&mtctp=b&memo1=1t1&gclid=Cj0KEQjw1cS6BRDvhtKL89em1oIBEiQAtZO5xxgd0MkEHC-UhzE3e_prQqwCBD4EWQjrj1gXANnwUwMaAslj8P8HAQ
-
 - name: Нож
   description: любой интересный нож с одним лезвием, не принципиально складной или нет. Или несколько метательных ножей
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
+
+- name: Нунчаки
+  description: я бы с удовольствием научился бы крутить что-то кроме ручки
+  url: http://ru.aliexpress.com/premium/nunchuck%25252dmartial%25252darts.html?ltype=wholesale&d=y&origin=n&isViewCP=y&SearchText=nunchuck-martial-arts&src=google&albch=search&acnt=479-062-3723&isdl=y&aff_short_key=UneMJZVf&albcp=273906556&albag=7991704636&slnk=&trgt=dsa-55226941396&plac=&crea=64152647716&netw=g&device=c&mtctp=b&memo1=1t1&gclid=Cj0KEQjw1cS6BRDvhtKL89em1oIBEiQAtZO5xxgd0MkEHC-UhzE3e_prQqwCBD4EWQjrj1gXANnwUwMaAslj8P8HAQ
+  performer: <a href="https://vk.com/id4948083">Павел Олегович</a>
+
+- name: Комнатное растение(я)
+  description: Алоэ, Сансевиерия, Хлорофитум.
+  url: http://www.zooclub.ru/samye/poleznye_komnatnye_rastenia.shtml
+  performer: <a href="https://vk.com/id29287075">Таня Зайнуллина</a>
 
 - name: Origami Cover
   description: leather cover for kindle voyage
