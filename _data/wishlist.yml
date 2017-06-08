@@ -2,6 +2,10 @@
 - name: Nice domain name
   description: trop.in for example
 
+- name: Programming Clojure (3rd edition)
+  description: good and solid book about wonderful language
+  url: https://pragprog.com/book/shcloj3/programming-clojure
+
 - name: Книги
   description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
   url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
