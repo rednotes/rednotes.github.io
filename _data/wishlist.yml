@@ -30,6 +30,9 @@
   description: command line sticker looks good too
   url: http://www.redbubble.com/shop/clojure+stickers
   price: 3$
+- name: Paradigms of Artificial Intelligence Programming
+  description: one of the best LISP and AI books
+  url: https://www.amazon.com/exec/obidos/ASIN/1558601910
 
 - name: On Lisp
   description: Advanced Techniques for Common Lisp
