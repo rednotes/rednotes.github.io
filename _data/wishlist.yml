@@ -1,4 +1,11 @@
 
+- name: Микрофон
+  description: Blue Yeti/Yeti Pro (тёмный) или audio technica AT2020USB+
+
+- name: a4 ereader
+  description: e-ink devices is good, but need larger screen for scientific books/pdfs
+  url: https://www.sony.com/electronics/digital-paper-notepads/dpts1
+
 - name: Nice domain name
   description: trop.in for example
 
@@ -10,18 +17,6 @@
   description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
   url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
 
-- name: Atreus
-  description: pretty small ergonomic mechanical keyboard
-  url: https://atreus.technomancy.us/
-
-# - name: Happy hacking keyboard 2 Pro!!!
-#   description: Еще одна крутая механическая клавиатура, которую очень-очень хочется. Пока без понятия где достать
-#   url: https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400bn
-
-# - name: Ultimate hacking keyboard
-#   description: Еще одна крутая механическая клавиатура, которую очень хочется. Пока без понятия где достать
-#   url: https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard
-
 - name: House on the ocean
   description: to live in cozy house near an ocean for few weeks
   url: http://i.imgur.com/Q3tnD.jpg
@@ -30,6 +25,7 @@
   description: command line sticker looks good too
   url: http://www.redbubble.com/shop/clojure+stickers
   price: 3$
+
 - name: Paradigms of Artificial Intelligence Programming
   description: one of the best LISP and AI books
   url: https://www.amazon.com/exec/obidos/ASIN/1558601910
@@ -38,32 +34,9 @@
   description: Advanced Techniques for Common Lisp
   url: https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529
 
-- name: Linus Torvalds 91 Success Facts
-  description: Everything you need to know about Linus Torvalds
-  url: https://www.amazon.com/Linus-Torvalds-Success-Facts-Everything-ebook/dp/B00QE4MPCW#nav-subnav
-
-- name: Thinkpad X1 Carbon/Yoga
-  description: probably my favorite ultrabook
-  url: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/
-
-- name: Dell XPS 13 Developer Edition
-  description: laptop with pretty good display
-  url: http://www.dell.com/us/p/xps-13-9360-laptop/pd?oc=cax13ubuntuh5133&model_id=xps-13-9360-laptop&l=en&s=bsd
-
 - name: Рюкзак спортивный/для путешествий
   description: например аналогичный тому, что по ссылке
   url: http://www.youtube.com/watch?v=VPuouNDNP0c
-
-- name: Записная книжка
-  description: с закладкой и приятной обложкой
-  url: https://indinotes.com/product/leuchtturm1917-medium-notebook-taupe
-
-- name: Скакалка
-  description: не очень тонкие рукоятки, чтобы удобно было держать
-
-- name: Спортивный плеер
-  description: не сильно большой
-  url: http://www.bestproducts.com/tech/gadgets/g1064/mp3-music-players/
 
 - name: Наушники
   description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие
@@ -76,6 +49,33 @@
 - name: Нож
   description: любой интересный нож с одним лезвием, не принципиально складной или нет. Или несколько метательных ножей
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
+
+# Performed
+
+- name: Спортивный плеер
+  description: не сильно большой
+  url: http://www.bestproducts.com/tech/gadgets/g1064/mp3-music-players/
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Dell XPS 13 Developer Edition
+  description: laptop with pretty good display
+  url: http://www.dell.com/us/p/xps-13-9360-laptop/pd?oc=cax13ubuntuh5133&model_id=xps-13-9360-laptop&l=en&s=bsd
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Thinkpad X1 Carbon/Yoga
+  description: probably my favorite ultrabook
+  url: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Записная книжка
+  description: с закладкой и приятной обложкой
+  url: https://indinotes.com/product/leuchtturm1917-medium-notebook-taupe
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Atreus
+  description: pretty small ergonomic mechanical keyboard
+  url: https://atreus.technomancy.us/
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
 
 - name: Нунчаки
   description: я бы с удовольствием научился бы крутить что-то кроме ручки
