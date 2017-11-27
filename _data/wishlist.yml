@@ -1,3 +1,13 @@
+- name: Razer goliathus control medium
+  description: ковёр, чтобы тащить ещё сильнее
+  url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
+
+- name: Razer deathadder elite
+  description: мыша, чтобы тащить ещё сильнее
+  url: https://www.razerzone.com/gaming-mice/razer-deathadder-elite
+
+- name: Сушилка для обуви
+  description: чтобы обувь сушить и микробчиков удалять
 
 - name: Микрофон
   description: Blue Yeti/Yeti Pro (тёмный) или audio technica AT2020USB+
