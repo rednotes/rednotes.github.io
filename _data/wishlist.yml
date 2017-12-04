@@ -1,3 +1,14 @@
+- name: Турник
+  description: турник, который можно повешать в дверной проём
+
+- name: Razer goliathus control medium
+  description: ковёр, чтобы тащить ещё сильнее
+  url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
+
+- name: SteelSeries Qck/Dex
+  description: ковёр, чтобы тащить ещё сильнее, мой Qck уже не торт
+  url: https://market.yandex.ru/product/1729321407?show-uid=124178385516498075116001&nid=55295&glfilter=7893318%3A1611750&context=search
+
 - name: Razer goliathus control medium
   description: ковёр, чтобы тащить ещё сильнее
   url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
