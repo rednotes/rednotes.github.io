@@ -1,9 +1,9 @@
 - name: Турник
   description: турник, который можно повешать в дверной проём
 
-- name: Razer goliathus control medium
-  description: ковёр, чтобы тащить ещё сильнее
-  url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
+- name: Logitech G640
+  description: ковёр, чтобы тащить ещё сильнее, нравится больше, чем остальные
+  url: https://www.logitechg.com/en-us/product/g640-cloth-gaming-mouse-pad
 
 - name: SteelSeries Qck/Dex
   description: ковёр, чтобы тащить ещё сильнее, мой Qck уже не торт
