@@ -5,27 +5,9 @@
   description: ковёр, чтобы тащить ещё сильнее, нравится больше, чем остальные
   url: https://www.logitechg.com/en-us/product/g640-cloth-gaming-mouse-pad
 
-- name: SteelSeries Qck/Dex
-  description: ковёр, чтобы тащить ещё сильнее, мой Qck уже не торт
-  url: https://market.yandex.ru/product/1729321407?show-uid=124178385516498075116001&nid=55295&glfilter=7893318%3A1611750&context=search
-
 - name: Razer goliathus control medium
   description: ковёр, чтобы тащить ещё сильнее
   url: https://www.razerzone.com/gaming-mouse-mats/razer-goliathus-control
-
-- name: Logitech G502 Proteus (12,000 DPI)
-  description: мыша, чтобы тащить ещё сильнее, нравится больше, чем razer
-  url: https://www.amazon.com/dp/B019OB663A/?tag=tomsguide_dealsyellowbox-20&amp;ascsubtag=17531512418464822&amp;SubscriptionId=AKIAJLYKPRLXUSF4GDIQ&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953
-
-- name: Razer deathadder elite
-  description: мыша, чтобы тащить ещё сильнее
-  url: https://www.razerzone.com/gaming-mice/razer-deathadder-elite
-
-- name: Сушилка для обуви
-  description: чтобы обувь сушить и микробчиков удалять
-
-- name: Микрофон
-  description: Blue Yeti/Yeti Pro (тёмный) или audio technica AT2020USB+
 
 - name: a4 ereader
   description: e-ink devices is good, but need larger screen for scientific books/pdfs
@@ -34,12 +16,8 @@
 - name: Nice domain name
   description: trop.in for example
 
-- name: Programming Clojure (3rd edition)
-  description: good and solid book about wonderful language
-  url: https://pragprog.com/book/shcloj3/programming-clojure
-
 - name: Книги
-  description: любые интересные книги, лучше бумажные, но и для kindle - нормалёк
+  description: любые интересные книги, лучше бумажные, но и электронные - нормалёк
   url: http://www.amazon.com/books-used-books-textbooks/b/ref=topnav_storetab_b?ie=UTF8&node=283155
 
 - name: House on the ocean
@@ -59,10 +37,6 @@
   description: Advanced Techniques for Common Lisp
   url: https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529
 
-- name: Рюкзак спортивный/для путешествий
-  description: например аналогичный тому, что по ссылке
-  url: http://www.youtube.com/watch?v=VPuouNDNP0c
-
 - name: Наушники
   description: хорошие наушники, не сильно важно вкладыши или здоровенные, главное хорошие
   url: http://www.icover.ru/catalog/product/sennheiser_hd_558_nakladnye_naushniki_black/?_openstat=bWFya2V0LnlhbmRleC5ydTtTZW5uaGVpc2VyIEhEIDU1OCAtINC90LDQutC70LDQtNC90YvQtSDQvdCw0YPRiNC90LjQutC4IChCbGFjayk7VXk3YUc3b1QzTFZVbmtoTWlvcmdRZzs&r1=yandexm&utm_campaign=ymarket&utm_content=87551&utm_medium=cpc&utm_source=ymarket&utm_term=87551&ymclid=64981396381332348400002
@@ -76,6 +50,25 @@
   url: http://army-news.ru/2014/11/xolodnoe-oruzhie-anatomiya-skladnogo-nozha/
 
 # Performed
+
+- name: Programming Clojure (3rd edition)
+  description: good and solid book about wonderful language
+  url: https://pragprog.com/book/shcloj3/programming-clojure
+  performer: Radu and abcdw
+
+- name: Рюкзак спортивный/для путешествий
+  description: например аналогичный тому, что по ссылке
+  url: http://www.youtube.com/watch?v=VPuouNDNP0c
+  performer: urbest team
+
+- name: Микрофон
+  description: Blue Yeti/Yeti Pro (тёмный) или audio technica AT2020USB+
+  performer: <a href="https://vk.com/abcdw">abcdw</a>
+
+- name: Logitech G502 Proteus (12,000 DPI)
+  description: мыша, чтобы тащить ещё сильнее, нравится больше, чем razer
+  url: https://www.amazon.com/dp/B019OB663A/?tag=tomsguide_dealsyellowbox-20&amp;ascsubtag=17531512418464822&amp;SubscriptionId=AKIAJLYKPRLXUSF4GDIQ&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953
+  performer: innosoft and friends
 
 - name: Спортивный плеер
   description: не сильно большой
