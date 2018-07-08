@@ -1,5 +1,9 @@
+- name: Cirque du soleil tickets 
+  description: билетики в цирк, не принципиально в каком городе
+  url: https://www.cirquedusoleil.com/
+
 - name: Яндексовая толстовочка
-  description: интересен большой карман и на вид качество - норм.
+  description: интересен большой карман и на вид качество - норм
   url: https://yandex.ru/things/black_hoodie
 
 - name: Турник
